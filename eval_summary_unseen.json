@@ -1,0 +1,9 @@
+{
+  "num_examples": 155,
+  "exact_match": 0.329,
+  "token_f1": 0.7728,
+  "num_abstention_cases": 17,
+  "abstention_accuracy": 1.0,
+  "num_factual_cases": 138,
+  "false_abstention_rate_on_factual": 0.0145
+}
